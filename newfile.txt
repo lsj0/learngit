@@ -1,8 +1,2 @@
 this is my new learn file,1024.2048
 nothing 
-http://121.199.62.174:8442/r/EmailuoToBFengXianVersion.git
-用户名：liushijie
-密码：User123
-
-git clone http://121.199.62.174:8442/r/EmailuoToBFengXianVersion.git
-git checkout dev
